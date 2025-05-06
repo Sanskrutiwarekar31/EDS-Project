@@ -7,5 +7,7 @@ This repository contains materials for the Essentials of Data Science course, in
 Contents
 
 EDS Laboratory Assignments
+
 CISCO Certificate
+
 Preskilet Video
