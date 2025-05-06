@@ -1,2 +1,1 @@
-# EDS-Project
-Essential of data science
+ https://sanskrutiwarekar31.github.io/EDS-Project/
